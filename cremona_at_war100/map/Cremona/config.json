@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "Cremona",
+			Author: "Marco Brembi",
+			BackgroundName: "Cremona",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 115,
+			MapScale: 3,
+			WorldMap: true,
+			Scenario: "testScenario",
+			Wiki: "Province_of_Cremona"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

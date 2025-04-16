@@ -1,0 +1,27 @@
+{
+	Map: [
+		{
+			Folder: "Earth"
+		},
+		{
+			Folder: "Europe"
+		},
+		{
+			Folder: "Asia"
+		},
+		{
+			Folder: "Earth_AoC1"
+		},
+		{
+			Folder: "Kepler"
+		},
+		{
+			Folder: "template"
+		},
+				{
+			Folder: "Cremona"
+		},
+	],
+	
+	Age_of_Civilizations: Maps
+}
