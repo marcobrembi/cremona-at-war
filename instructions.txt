@@ -1,0 +1,7 @@
+1. Download the mod.
+2. Extract the files from the ZIP.
+3. Open the game folder.
+4. Copy the mod files from the extracted folder to the game folder.
+5. Enjoy!
+
+If you don't understand or it didn't work, check the instructions on ModDB.
